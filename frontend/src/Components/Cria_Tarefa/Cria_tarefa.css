@@ -1,0 +1,25 @@
+.ReactContainer{
+    color: black;
+    display: flex;
+    gap: 15%;
+    
+}
+
+.CriaTarefa{
+    background-color: #e2e2e2;
+    margin-bottom: 30px;
+    padding: 10px;
+}
+
+.TarefasCriadas{
+    background-color: #e2e2e2;
+    padding: 10px;
+    width: 150px;
+   
+
+
+}
+.TarefasCriadas li{
+    list-style: none;
+
+}
